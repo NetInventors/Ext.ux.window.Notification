@@ -1,0 +1,17 @@
+{
+    "name": "ni-jmatthiesen/Ext.ux.window.Notification",
+    "description": "Notification extension for Ext JS 4.x",
+    "type": "component",
+    "homepage": "http://www.eirik.net/",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "files": [
+                "Notification.js",
+                "images/**"
+            ]
+        }
+    }
+}
